@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.mobile.devicedelegatingviewresolver.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mobile.devicedelegatingviewresolver.enabled'"
+  },
+  {
+    "name": "spring.mobile.devicedelegatingviewresolver.enable-fallback",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mobile.devicedelegatingviewresolver.enable-fallback'"
+  },
+  {
+    "name": "spring.mobile.devicedelegatingviewresolver.mobile-prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mobile.devicedelegatingviewresolver.mobile-prefix'"
+  },
+  {
+    "name": "spring.mobile.devicedelegatingviewresolver.normal-prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mobile.devicedelegatingviewresolver.normal-prefix'"
+  },
+  {
+    "name": "spring.mobile.devicedelegatingviewresolver.tablet-prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mobile.devicedelegatingviewresolver.tablet-prefix'"
+  }
+]}
